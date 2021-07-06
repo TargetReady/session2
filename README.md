@@ -1,2 +1,5 @@
-# session2
-Concepts of Multi Threading and JVM Memory Model
+# Session2
+
+### **Topics Covered:**
+
+#### - Concepts of Multi Threading and JVM Memory Model
